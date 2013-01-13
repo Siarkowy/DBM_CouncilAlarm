@@ -1,0 +1,9 @@
+## Interface: 20400
+## Title: |cff0055FFDeadly Council Alarm|r
+## Notes: Illidari Council AoE alarm
+## Author: Siarkowy
+## LoadOnDemand: 1
+## RequiredDeps: DBM_API
+## LoadWith: DBM_BlackTemple
+
+CouncilAlarm.lua
